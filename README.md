@@ -22,4 +22,4 @@ Resposta: O meu objetivo é organizar os conteúdos dos eventos do congresso, co
 ## Rodolfo Rodrigues - Gerente da Conferência
 
 Resposta: Preciso ter a informação geral do evento, com o número de pagantes, número de presentes, total de faltas, lucro total e o custo total do evento.
-
+O dados deverão ser armazenados em MySQL. O sistema deve utilizar Javascript, HTML e CSS com Bootstrap.
