@@ -23,3 +23,7 @@ Resposta: O meu objetivo é organizar os conteúdos dos eventos do congresso, co
 
 Resposta: Preciso ter a informação geral do evento, com o número de pagantes, número de presentes, total de faltas, lucro total e o custo total do evento.
 O dados deverão ser armazenados em MySQL. O sistema deve utilizar Javascript, HTML e CSS com Bootstrap.
+
+
+## Atividade:
+Criar um diagrama de <b>classes</b> e um diagrama de <b>casos de uso</b>, utilizando padrões da UML, além de requisitos <b>funcionais e não funcionais</b> do sistema.
